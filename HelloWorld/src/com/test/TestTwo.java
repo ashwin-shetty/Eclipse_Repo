@@ -4,5 +4,6 @@ public class TestTwo {
 public static void main(String[] args) {
 	System.out.println("Test 2 File");
 	System.out.println("Test 2 File :3:04 :comp2");
+	System.out.println("Test 2 File :3:04 :comp2");
 }
 }

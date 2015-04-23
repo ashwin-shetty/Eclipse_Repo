@@ -9,6 +9,7 @@ public static void main(String[] args) {
 
 public static void myCompany(){
 	System.out.println("I work in invenger");
+	System.out.println("Striving for Excellence ");
 }
 
 }

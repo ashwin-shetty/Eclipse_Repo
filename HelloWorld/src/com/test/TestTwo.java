@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	System.out.println("Test 2 File :3:02 :comp1");
 	System.out.println("From Server");
 	System.out.println("From Server");
+	System.out.println("5:36 :: From comp3");
 }
 }

@@ -1,0 +1,10 @@
+package snippet;
+
+public class Snippet {
+	{
+	    "firstName": "Steve",
+	    "lastName": "Austin",
+	    "emailId": "steve.austin@hotmail.com"
+	}
+}
+
